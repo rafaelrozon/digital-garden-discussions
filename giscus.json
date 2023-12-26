@@ -1,0 +1,13 @@
+{
+  "origins": [
+    "https://rafaelrozon.com",
+    "https://rafaelrozon-v2.vercel.app",
+    "https://rafaelrozon-v2-rafaelrozon.vercel.app",
+    "https://rafaelrozon-v2-git-main-rafaelrozon.vercel.app"
+  ],
+  "originsRegex": [
+    "https://rafaelrozon-v2-([A-z0-9]|-)\\.vercel\\.app",
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
